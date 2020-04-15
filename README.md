@@ -1,2 +1,2 @@
 # Chess
-C++ Chess Game
+C++ Chess Game - Fuck This :)
